@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">esp32server</string>
+    <string name="send_location">Send Location</string>
+</resources>
