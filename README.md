@@ -1,4 +1,4 @@
-# ESP32 and Android GPS Project
+# Use your phone as a GPS for your ESP32 Project
 
 This project demonstrates how an Android application can automatically send GPS location information to an ESP32. The app collects location data from the Android device and sends it to the ESP32 via HTTP POST requests. This project is useful if you want to use GPS information on your ESP32 but you don't have access to a GPS module.
 
